@@ -1,0 +1,3 @@
+GET		/index				controllers.application.index
+
+POST  /         controllers.application.upload

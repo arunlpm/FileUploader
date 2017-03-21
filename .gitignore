@@ -1,0 +1,11 @@
+*.log
+*.iws
+*.iml
+core.*
+target
+.swp
+.idea/
+nohup.out
+test-source
+test-sink
+.*#
